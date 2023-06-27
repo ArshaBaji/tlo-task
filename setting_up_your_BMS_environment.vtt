@@ -6,15 +6,15 @@ Hey everyone. Now that you've finished setting up your workspace and
 
 1
 00:00:03.700 --> 00:00:06.000
- installing python. Let's look at how to work with
+ installing Python. Let's look at how to work with
 
 2
 00:00:06.100 --> 00:00:09.100
- the project file. So first what you can do is
+ the project file. First what you can do is
 
 3
 00:00:09.700 --> 00:00:12.100
-click the download project file in the
+click the DownloadProjectFile in the
 
 4
 00:00:12.100 --> 00:00:12.600
@@ -22,19 +22,19 @@ click the download project file in the
 
 5
 00:00:13.600 --> 00:00:16.200
-And it will automatically get downloaded right now.
+And it will automatically get downloaded.Right now,
 
 6
 00:00:17.100 --> 00:00:17.700
-It's here.
+it's here.
 
 7
 00:00:18.600 --> 00:00:19.800
-The slide this away.
+Slide this away and
 
 8
 00:00:20.500 --> 00:00:23.000
-Go to your computer this PC.
+Go to your computer > This PC
 
 9
 00:00:24.500 --> 00:00:27.100
@@ -42,11 +42,11 @@ Go to any drive that you have
 
 10
 00:00:27.100 --> 00:00:29.600
- free. Just create a new folder.
+ free. Just create a New folder.
 
 11
 00:00:30.600 --> 00:00:32.200
-see Evie
+say Evie
 
 12
 00:00:32.800 --> 00:00:33.300
@@ -54,7 +54,7 @@ see Evie
 
 13
 00:00:35.200 --> 00:00:36.800
-in this new folder what we can do is
+In this new folder what you can do is
 
 14
 00:00:38.300 --> 00:00:40.100
@@ -66,7 +66,7 @@ Okay.
 
 16
 00:00:42.600 --> 00:00:43.700
-That's it now.
+That's it . Now, 
 
 17
 00:00:45.400 --> 00:00:48.200
@@ -74,23 +74,23 @@ In the new folder you have your zip file that you've downloaded.
 
 18
 00:00:49.200 --> 00:00:52.700
-Right click on this I click extract here. You can
+Right click on this  >> click Extract here. You can
 
 19
 00:00:52.700 --> 00:00:55.300
- either click extract here if you have WinRAR
+ either click Extract here if you have WinRAR
 
 20
 00:00:56.300 --> 00:01:00.300
-Or you can click extract here in the seven. Zip dropdown
+Or you can click Extract here in the 7-Zip dropdown.
 
 21
 00:00:59.300 --> 00:01:02.800
- Okay, click this or
+ Okay , Click this or
 
 22
 00:01:02.800 --> 00:01:04.400
- this now click extract here.
+ this now click Extract here.
 
 23
 00:01:06.200 --> 00:01:09.200
@@ -98,15 +98,15 @@ So you have extracted the data that is in
 
 24
 00:01:09.200 --> 00:01:10.600
- the zip file open this
+ the zip file .  now Open this
 
 25
 00:01:11.500 --> 00:01:14.800
-Now what's going to happen is this is the main admin of
+Now what's going to happen is this is the main ARDUINO file.
 
 26
 00:01:14.800 --> 00:01:14.900
- it.
+
 
 27
 00:01:16.200 --> 00:01:17.200
@@ -114,7 +114,7 @@ You can see the cursor, right?
 
 28
 00:01:17.700 --> 00:01:18.200
-click this
+Click this.
 
 29
 00:01:19.100 --> 00:01:22.100
@@ -126,11 +126,11 @@ Now it's going to cause an error. Let's see what
 
 31
 00:01:23.400 --> 00:01:26.100
-file BMS underscore main dot iono needs to
+file "BMS_main.ino" needs to
 
 32
 00:01:26.100 --> 00:01:29.400
- be inside a sketch folder named BMS underscore Main
+ be inside a sketch folder named "BMS_Main"
 
 33
 00:01:30.300 --> 00:01:30.500
@@ -142,35 +142,35 @@ So what is happening here?
 
 35
 00:01:35.600 --> 00:01:38.300
-What is happening? The BMS underscore main is not
+What is happening? The "BMS_main" is not
 
 36
 00:01:38.300 --> 00:01:41.500
- inside a folder named BMS underscore main.
+ inside a folder named "BMS_main".
 
 37
 00:01:41.500 --> 00:01:44.500
- It is inside a folder name BS BMS underscore
+ It is inside a folder name "BMS_main-main"
 
 38
 00:01:44.500 --> 00:01:44.800
- Main.
+
 
 39
 00:01:45.500 --> 00:01:48.400
-Slash Min. So what you need to do is go back.
+ So what you need to do is Go Back.
 
 40
 00:01:49.800 --> 00:01:50.400
-right click
+Right click
 
 41
 00:01:51.300 --> 00:01:52.000
-rename
+"rename"
 
 42
 00:01:53.700 --> 00:01:54.700
-Let's remove this.
+Let's remove this
 
 43
 00:01:55.700 --> 00:01:56.400
@@ -178,7 +178,7 @@ main part
 
 44
 00:02:01.300 --> 00:02:02.000
-right. Let's
+ Let's
 
 45
 00:02:04.100 --> 00:02:05.400
@@ -198,11 +198,11 @@ rename
 
 49
 00:02:13.900 --> 00:02:16.400
-done. Okay. Now BMS underscore main
+done. Okay. Now "BMS_main"
 
 50
 00:02:16.400 --> 00:02:19.700
- is the name of the folder open this click on this
+ is the name of the folder . Open this >> Click on this
 
 51
 00:02:19.700 --> 00:02:20.900
@@ -246,15 +246,15 @@ The basic code works and to make
 
 61
 00:02:54.600 --> 00:02:57.600
- at the calculation part. This is the battery voltage part.
+ at the calculation part. This is the"batteryVoltages" part.
 
 62
 00:02:57.600 --> 00:03:00.200
- This is the control part. This is the current
+ This is the "control" part. This is the "current_sensor"
 
 63
 00:03:00.200 --> 00:03:03.100
- sensor to extract all the current
+  to extract all the current
 
 64
 00:03:03.100 --> 00:03:06.600
@@ -270,7 +270,7 @@ The basic code works and to make
 
 67
 00:03:12.300 --> 00:03:15.200
- and temperature for cell number one cell number two.
+ and temperature for cell number one , cell number two.
 
 68
 00:03:15.900 --> 00:03:16.100
@@ -314,15 +314,15 @@ So we'll understand how this works much better
 
 78
 00:03:40.500 --> 00:03:42.000
-So this is basically just click.
+So this is basically,  Just click.
 
 79
 00:03:43.400 --> 00:03:46.200
-upload, just select first of all select
+upload, >> just select , first of all select
 
 80
 00:03:46.200 --> 00:03:49.100
- your Arduino Nano select which
+Board:"Arduino Nano" ,Select which
 
 81
 00:03:50.200 --> 00:03:52.800
@@ -334,11 +334,11 @@ select the port
 
 83
 00:03:55.400 --> 00:03:56.600
-come six.
+COM6.
 
 84
 00:03:57.300 --> 00:04:00.400
-And just select upload once uploaded it will
+And just select upload. Once uploaded it will
 
 85
 00:04:00.400 --> 00:04:01.900
@@ -354,11 +354,11 @@ It might take some time to upload depending on your PC now that it's completed
 
 88
 00:04:25.600 --> 00:04:28.400
- uploading go to tools go to
+ uploading , go to "tools" go to
 
 89
 00:04:28.400 --> 00:04:28.900
- serial monitor.
+ "serial monitor".
 
 90
 00:04:31.300 --> 00:04:31.600
@@ -366,7 +366,7 @@ now
 
 91
 00:04:33.800 --> 00:04:35.600
-Right. You need to switch on your BMS?
+Right. You need to switch on your BMS.
 
 92
 00:04:36.500 --> 00:04:38.600
@@ -382,7 +382,7 @@ Okay, so these are the iterations and this is all all
 
 95
 00:04:45.600 --> 00:04:47.400
- is unable I know but
+ is unreadable, I know , but
 
 96
 00:04:48.200 --> 00:04:51.700
@@ -394,59 +394,59 @@ This data will go into the Python
 
 98
 00:04:53.900 --> 00:04:56.700
-This is the Python program. It's called BMS
+This is the Python program. It's called 
 
 99
 00:04:56.700 --> 00:04:58.500
- and score analytics dot pi.
+ " BMS_Analytics.py "
 
 100
 00:05:00.500 --> 00:05:00.800
-so
+So
 
 101
 00:05:02.800 --> 00:05:05.600
-Your Arduino is currently calm six right now. That
+Your Arduino is currently COM6 right now. That
 
 102
 00:05:05.600 --> 00:05:08.100
- is because USB serial rate. These are
+ is because USB SERIAL rate. These are
 
 103
 00:05:08.100 --> 00:05:11.300
- all Bluetooths whatever other com ports or
+ all Bluetooths. Whatever other COM ports or
 
 104
 00:05:11.300 --> 00:05:14.200
- communication ports are available on your PC will be displayed here.
+ communication ports  available on your PC will be displayed here.
 
 105
 00:05:14.200 --> 00:05:17.800
- But go with the port that says USB serial
+ But go with the port that says "USBSERIAL CH340"
 
 106
 00:05:17.800 --> 00:05:19.200
- ch340
+
 
 107
 00:05:20.100 --> 00:05:20.700
-type in
+Typing
 
 108
 00:05:21.100 --> 00:05:21.700
-com
+COM6
 
 109
 00:05:22.400 --> 00:05:22.700
-6
+
 
 110
 00:05:24.800 --> 00:05:28.100
-start the battery management system dialog box.
+Start the "Battery Management System" dialog box.
 
 111
 00:05:31.400 --> 00:05:32.800
-That's that's basically it.
+That's  basically it.
 
 112
 00:05:33.400 --> 00:05:36.500
@@ -454,7 +454,7 @@ You get to the dashboard and we'll learn how the dashboard
 
 113
 00:05:36.500 --> 00:05:37.100
- Works later.
+ works later.
 
 114
 00:05:38.200 --> 00:05:38.500
